@@ -1,0 +1,10 @@
+.banner{
+    background-image: url(Images/pexels-ylanite-koppens-1906440.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+}
+
+.skills-padding{
+    padding: 100px 0;
+}
